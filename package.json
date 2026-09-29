@@ -1,0 +1,13 @@
+{
+  "name": "well-mind-stress-analyzer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Well Mind Stress Analyzer with private mood check-ins and weekly stress insights",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^6.20.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
